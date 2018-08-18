@@ -1,18 +1,38 @@
 // Styling for the team section
+$team-member-height: 225px;
+$team-member-width: 225px;
+$team-member-border: 7px;
+$team-schema-file-width: 413px;
+$team-schema-file-height: 360px;
+$team-margin-bottom: 50px;
+
 .team-member {
-  margin-bottom: 50px;
+  margin-bottom: $team-margin-bottom;
   text-align: center;
   img {
-    width: 225px;
-    height: 225px;
-    border: 7px solid $white;
+    width: $team-member-width;
+    height: $team-member-height;
+    border: $team-member-border solid $white;
   }
   h4 {
-    margin-top: 25px;
+    margin-top: $team-margin-bottom / 2;
     margin-bottom: 0;
     text-transform: none;
   }
   p {
     margin-top: 0;
+  }
+}
+
+.team-schema {
+  position: relative;
+  margin-bottom: $team-margin-bottom;
+  img {
+    width: 100%;
+    height: 100%;
+    max-height: $team-schema-file-height;
+    min-height: $team-schema-file-height * ($team-member-width + 2 * $team-member-border) / $team-schema-file-width;
+    max-width: $team-schema-file-width;
+    min-width: $team-member-width + 2 * $team-member-border;
   }
 }
