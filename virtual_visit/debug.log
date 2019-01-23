@@ -1,0 +1,20 @@
+[1128/003438:ERROR:resource_bundle.cc(691)] Failed to load C:\Program Files\Kolor\Panotour Viewer 1.1\qtwebengine_resources_100p.pak
+Some features may not be available.
+[1128/003438:ERROR:resource_bundle.cc(691)] Failed to load C:\Program Files\Kolor\Panotour Viewer 1.1\qtwebengine_resources_200p.pak
+Some features may not be available.
+[1128/003438:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[1128/003440:ERROR:resource_bundle.cc(691)] Failed to load C:\Program Files\Kolor\Panotour Viewer 1.1\qtwebengine_resources_100p.pak
+Some features may not be available.
+[1128/003440:ERROR:resource_bundle.cc(691)] Failed to load C:\Program Files\Kolor\Panotour Viewer 1.1\qtwebengine_resources_200p.pak
+Some features may not be available.
+[1128/003440:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0302/174724:ERROR:resource_bundle.cc(691)] Failed to load C:\Program Files\Kolor\Panotour Viewer 1.1\qtwebengine_resources_100p.pak
+Some features may not be available.
+[0302/174724:ERROR:resource_bundle.cc(691)] Failed to load C:\Program Files\Kolor\Panotour Viewer 1.1\qtwebengine_resources_200p.pak
+Some features may not be available.
+[0302/174724:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0302/174726:ERROR:resource_bundle.cc(691)] Failed to load C:\Program Files\Kolor\Panotour Viewer 1.1\qtwebengine_resources_100p.pak
+Some features may not be available.
+[0302/174726:ERROR:resource_bundle.cc(691)] Failed to load C:\Program Files\Kolor\Panotour Viewer 1.1\qtwebengine_resources_200p.pak
+Some features may not be available.
+[0302/174726:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
